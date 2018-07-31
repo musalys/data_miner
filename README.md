@@ -1,7 +1,7 @@
 # data_miner
 데이터 전처리 / DB IO / 분석을 위한 장고 REST API 프로젝트 입니다.
 
-데이터 처리를 API 작성을 위하여 Django를 사용하였고, Django RestFrameWork를 사용
+데이터 처리를 API 작성을 위하여 Django RestFrameWork를 사용
 
 python 2.7.13
 django 1.11
