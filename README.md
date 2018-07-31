@@ -3,12 +3,13 @@
 
 데이터 처리를 API 작성을 위하여 Django RestFrameWork를 사용
 
-python 2.7.13
-django 1.11
-djangorestframework 3.6.3
-pandas 0.20.2
-scikit-learn 0.18.1
-using anaconda 4.3.22
+## main Dependencies
+- python 2.7.13
+- django 1.11
+- djangorestframework 3.6.3
+- pandas 0.20.2
+- scikit-learn 0.18.1
+- using anaconda 4.3.22
 
 ```bash
 conda create -n project_name python=2.7
